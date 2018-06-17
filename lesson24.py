@@ -19,3 +19,17 @@ print(d)
 d = {'x': 10, 'y': 20}
 print('a' in d) # False
 print('x' in d) # True
+
+print('#######################')
+# 辞書のコピー
+x = {'a': 1}
+y = x
+y['a'] = 1000
+print(x)
+print(y)
+
+x = {'a': 1}
+y = x.copy()
+y['a'] = 1000
+print(x)
+print(y)
