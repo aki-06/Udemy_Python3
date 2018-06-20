@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="111102e7-541d-4db8-ba68-e3783516e262" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson42.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson43.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,13 +14,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="lesson42.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="lesson42.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson42.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lesson43.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson43.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -66,6 +71,7 @@
         <option value="$PROJECT_DIR$/lesson40.py" />
         <option value="$PROJECT_DIR$/lesson41.py" />
         <option value="$PROJECT_DIR$/lesson42.py" />
+        <option value="$PROJECT_DIR$/lesson43.py" />
       </list>
     </option>
   </component>
@@ -118,7 +124,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson42.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson43.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,16 +146,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2535316" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2535316" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28138527" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28138527" />
       <window_info anchor="bottom" id="Version Control" weight="0.32900432" />
       <window_info anchor="bottom" id="Python Console" weight="0.32756132" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" weight="0.45165944" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.45165944" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3982684" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -364,10 +369,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson42.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson43.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
