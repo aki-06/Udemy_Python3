@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="111102e7-541d-4db8-ba68-e3783516e262" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson_package/talk/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_package/talk/human.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_package/tools/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_package/talk/animal.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson67.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson67.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_package/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_package/tools/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_package/talk/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_package/talk/__init__.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,15 +18,31 @@
       <file leaf-file-name="lesson67.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lesson67.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            <state relative-caret-position="105">
+              <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+              <folding>
+                <element signature="e#118#155#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="animal.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson_package/talk/animal.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson_package/talk/__init__.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="20" selection-start-column="20" selection-end-column="20" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="human.py" pinned="false" current-in-tab="false">
@@ -70,7 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lesson15.py" />
         <option value="$PROJECT_DIR$/lesson16.py" />
         <option value="$PROJECT_DIR$/lesson17.py" />
         <option value="$PROJECT_DIR$/lesson18.py" />
@@ -118,9 +130,10 @@
         <option value="$PROJECT_DIR$/lesson66.py" />
         <option value="$PROJECT_DIR$/lesson_package/__init__.py" />
         <option value="$PROJECT_DIR$/lesson_package/utils.py" />
-        <option value="$PROJECT_DIR$/lesson_package/talk/__init__.py" />
         <option value="$PROJECT_DIR$/lesson_package/talk/human.py" />
+        <option value="$PROJECT_DIR$/lesson_package/talk/animal.py" />
         <option value="$PROJECT_DIR$/lesson67.py" />
+        <option value="$PROJECT_DIR$/lesson_package/talk/__init__.py" />
       </list>
     </option>
   </component>
@@ -166,6 +179,9 @@
     </panes>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lesson_package/talk" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/lesson_package/tools" />
     </key>
@@ -219,10 +235,10 @@
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2535316" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2535316" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28138527" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28138527" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32900432" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32756132" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -254,13 +270,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lesson16.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson17.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
@@ -564,9 +573,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson_package/talk/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson_package/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -584,10 +590,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_package/talk/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_package/talk/animal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lesson67.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        <state relative-caret-position="105">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding>
+            <element signature="e#118#155#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
