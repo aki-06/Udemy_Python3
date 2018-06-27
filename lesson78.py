@@ -2,6 +2,7 @@
 class Person(object):
     def __init__(self, name):
         """
+        コンストラクタ
         オブジェクトが生成されたら最初に呼ばれる
         """
         self.name = name
@@ -14,6 +15,18 @@ class Person(object):
     def run(self):
         print('run')
 
+    def __del__(self):
+        """
+        デストラクタ
+        オブジェクトが使われなくなったら呼び出される
+        """
+        print('good bye')
+
 
 person = Person('Mike')
 person.say_something()
+
+# 直接呼び出す
+del person
+
+print('##########')
