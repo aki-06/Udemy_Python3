@@ -6,8 +6,13 @@ class Person(object):
         print('hello')
 
 
-# オブジェクトの生成
-person = Person()
+def main():
+    # オブジェクトの生成
+    person = Person()
+    # メソッドの呼び出し
+    person.say_something()
 
-# メソッドの呼び出し
-person.say_something()
+if __name__ == 'main':
+    main()
+
+print('モジュール名: {}'.format(__name__))
