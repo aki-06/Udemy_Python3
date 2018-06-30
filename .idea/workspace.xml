@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="111102e7-541d-4db8-ba68-e3783516e262" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson96.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson97.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.text" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,7 +16,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="lesson96.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="lesson96.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson96.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
@@ -23,11 +25,23 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="lesson97.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson97.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="50" column="9" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+              <folding>
+                <element signature="e#10#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="test.csv" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.csv">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -47,8 +61,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lesson48.py" />
-        <option value="$PROJECT_DIR$/lesson49.py" />
         <option value="$PROJECT_DIR$/lesson50.py" />
         <option value="$PROJECT_DIR$/lesson51.py" />
         <option value="$PROJECT_DIR$/lesson52.py" />
@@ -98,6 +110,8 @@
         <option value="$PROJECT_DIR$/Design/design.txt" />
         <option value="$PROJECT_DIR$/lesson95.py" />
         <option value="$PROJECT_DIR$/lesson96.py" />
+        <option value="$PROJECT_DIR$/symlink.txt" />
+        <option value="$PROJECT_DIR$/lesson97.py" />
       </list>
     </option>
   </component>
@@ -166,7 +180,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson96.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson97.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,21 +239,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/関数内関数.py" />
-    <entry file="file://$PROJECT_DIR$/lesson53.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson54.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -539,9 +538,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Design/design.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -555,7 +551,7 @@
     <entry file="file://$PROJECT_DIR$/test.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
@@ -563,6 +559,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symlink.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renamed.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson97.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="50" column="9" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+          <folding>
+            <element signature="e#10#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
