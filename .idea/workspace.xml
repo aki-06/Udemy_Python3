@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="111102e7-541d-4db8-ba68-e3783516e262" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson98.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson99.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,13 +14,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="lesson98.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lesson98.py">
+      <file leaf-file-name="lesson99.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson99.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+            <state relative-caret-position="195">
+              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
               <folding>
-                <element signature="e#15#29#0" expanded="true" />
+                <element signature="e#16#30#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -41,7 +41,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lesson51.py" />
         <option value="$PROJECT_DIR$/lesson52.py" />
         <option value="$PROJECT_DIR$/lesson53.py" />
         <option value="$PROJECT_DIR$/関数内関数.py" />
@@ -92,6 +91,7 @@
         <option value="$PROJECT_DIR$/symlink.txt" />
         <option value="$PROJECT_DIR$/lesson97.py" />
         <option value="$PROJECT_DIR$/lesson98.py" />
+        <option value="$PROJECT_DIR$/lesson99.py" />
       </list>
     </option>
   </component>
@@ -112,27 +112,6 @@
             <path>
               <item name="Udemy_Python3" type="b2602c69:ProjectViewProjectNode" />
               <item name="Udemy_Python3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Udemy_Python3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy_Python3" type="462c0819:PsiDirectoryNode" />
-              <item name="Design" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Udemy_Python3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy_Python3" type="462c0819:PsiDirectoryNode" />
-              <item name="test_dir" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Udemy_Python3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy_Python3" type="462c0819:PsiDirectoryNode" />
-              <item name="test_tar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Udemy_Python3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy_Python3" type="462c0819:PsiDirectoryNode" />
-              <item name="test_tar" type="462c0819:PsiDirectoryNode" />
-              <item name="test_dir" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -176,7 +155,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson98.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson99.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,11 +182,11 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2535316" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28138527" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28138527" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32900432" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32756132" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.27272728" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.27272728" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3982684" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -235,13 +214,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lesson56.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson57.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -572,10 +544,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson98.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+        <state relative-caret-position="435">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
           <folding>
             <element signature="e#15#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson99.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding>
+            <element signature="e#16#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
