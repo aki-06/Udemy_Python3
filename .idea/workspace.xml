@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="111102e7-541d-4db8-ba68-e3783516e262" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson130.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20180708_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson125.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson130.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson130.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,22 +16,9 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="lesson123.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson123.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lesson130.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lesson130.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-            </state>
-          </provider>
+      <file leaf-file-name="lesson125.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson125.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -47,8 +36,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lesson65.py" />
-        <option value="$PROJECT_DIR$/lesson66.py" />
         <option value="$PROJECT_DIR$/lesson_package/__init__.py" />
         <option value="$PROJECT_DIR$/lesson_package/utils.py" />
         <option value="$PROJECT_DIR$/lesson_package/talk/human.py" />
@@ -97,7 +84,9 @@
         <option value="$PROJECT_DIR$/lesson122.py" />
         <option value="$PROJECT_DIR$/logtest.py" />
         <option value="$PROJECT_DIR$/lesson123.py" />
+        <option value="$PROJECT_DIR$/20180708_test.py" />
         <option value="$PROJECT_DIR$/lesson130.py" />
+        <option value="$PROJECT_DIR$/lesson125.py" />
       </list>
     </option>
   </component>
@@ -161,7 +150,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson130.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson125.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,7 +181,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8452381" visible="true" weight="0.2535316" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32900432" />
@@ -229,20 +217,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lesson82.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson84.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson85.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -539,10 +513,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson130.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        <state relative-caret-position="180">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20180708_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson125.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
