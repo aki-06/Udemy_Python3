@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="111102e7-541d-4db8-ba68-e3783516e262" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/test_calculate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="111102e7-541d-4db8-ba68-e3783516e262" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,8 +35,8 @@
       <file leaf-file-name="test_calculate.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_calculate.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+            <state relative-caret-position="210">
+              <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -227,15 +224,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="unittest - 2018.07.13 at 22h 22m 24s.xml">
-      <configuration name="unittest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="unittest - 2018.07.13 at 22h 25m 20s.xml">
-      <configuration name="unittest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="unittest - 2018.07.14 at 10h 53m 58s.xml">
-      <configuration name="unittest" configurationId="tests" />
-    </history-entry>
     <history-entry file="unittest - 2018.07.14 at 10h 55m 04s.xml">
       <configuration name="unittest" configurationId="tests" />
     </history-entry>
@@ -257,6 +245,15 @@
     <history-entry file="pytest - 2018.07.14 at 13h 37m 49s.xml">
       <configuration name="pytest" configurationId="tests" />
     </history-entry>
+    <history-entry file="pytest - 2018.07.14 at 13h 41m 06s.xml">
+      <configuration name="pytest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest - 2018.07.14 at 13h 43m 40s.xml">
+      <configuration name="pytest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest - 2018.07.14 at 13h 44m 01s.xml">
+      <configuration name="pytest" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -269,17 +266,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8433735" visible="true" weight="0.2535316" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8452381" visible="true" weight="0.2535316" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32900432" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32756132" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28138527" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3997114" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32900432" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32756132" />
-      <window_info id="Structure" order="1" sideWeight="0.15662651" side_tool="true" visible="true" weight="0.2535316" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.27272728" />
+      <window_info id="Structure" order="1" sideWeight="0.15476191" side_tool="true" visible="true" weight="0.2535316" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.27272728" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3982684" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -619,8 +615,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_calculate.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        <state relative-caret-position="210">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
         </state>
       </provider>
     </entry>

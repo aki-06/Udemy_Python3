@@ -1,3 +1,4 @@
 [
-  "test_calculate.py::TestCal::()::test_add_num_and_double"
+  "test_calculate.py::TestCal::()::test_add_num_and_double",
+  "test_calculate.py::TestCal::()::test_add_num_and_double_raise"
 ]
