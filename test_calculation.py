@@ -6,20 +6,27 @@ import unittest
 import calculation
 
 class CalTest(unittest.TestCase):
+    def setUp(self):
+        print('setup')
+        self.cal = calculation.Cal()
+
+    def tearDown(self):
+        print('clean up')
+        del self.cal
+
     def test_add_num_and_double(self):
         """
         正しく計算がされているか確認するテスト
         """
-        cal = calculation.Cal()
-        self.assertEqual(cal.add_num_and_double(1, 1), 4)
+        self.assertEqual(self.cal.add_num_and_double(1, 1), 4)
 
     def test_add_num_and_double_raise(self):
         """
         ValueErrorが発生するか確認するためのテスト
+        - 例外処理のテストをするときはwithを使う
         """
-        cal = calculation.Cal()
         with self.assertRaises(ValueError):
-            cal.add_num_and_double('1', '1')
+            self.cal.add_num_and_double('1', '1')
 
 
 if __name__ == '__main__':

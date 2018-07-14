@@ -25,8 +25,8 @@
       <file leaf-file-name="test_calculation.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_calculation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+            <state relative-caret-position="135">
+              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -202,9 +202,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="unittest - 2018.07.13 at 22h 15m 29s.xml">
-      <configuration name="unittest" configurationId="tests" />
-    </history-entry>
     <history-entry file="unittest - 2018.07.13 at 22h 15m 42s.xml">
       <configuration name="unittest" configurationId="tests" />
     </history-entry>
@@ -226,6 +223,15 @@
     <history-entry file="unittest - 2018.07.13 at 22h 25m 20s.xml">
       <configuration name="unittest" configurationId="tests" />
     </history-entry>
+    <history-entry file="unittest - 2018.07.14 at 10h 53m 58s.xml">
+      <configuration name="unittest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="unittest - 2018.07.14 at 10h 55m 04s.xml">
+      <configuration name="unittest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="unittest - 2018.07.14 at 10h 56m 23s.xml">
+      <configuration name="unittest" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -240,15 +246,15 @@
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8452381" visible="true" weight="0.2535316" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8433735" visible="true" weight="0.2535316" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32900432" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32756132" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28138527" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28138527" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32900432" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32756132" />
-      <window_info id="Structure" order="1" sideWeight="0.15476191" side_tool="true" visible="true" weight="0.2535316" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.27272728" />
+      <window_info id="Structure" order="1" sideWeight="0.15662651" side_tool="true" visible="true" weight="0.2535316" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.27272728" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3982684" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -585,8 +591,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_calculation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        <state relative-caret-position="135">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
