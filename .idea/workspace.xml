@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="111102e7-541d-4db8-ba68-e3783516e262" name="Default" comment="" />
+    <list default="true" id="111102e7-541d-4db8-ba68-e3783516e262" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_calculate.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_calculate.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,8 +38,11 @@
       <file leaf-file-name="test_calculate.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_calculate.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+            <state relative-caret-position="313">
+              <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+              <folding>
+                <element signature="e#53#66#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -224,34 +230,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="unittest - 2018.07.14 at 10h 55m 04s.xml">
-      <configuration name="unittest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="unittest - 2018.07.14 at 10h 56m 23s.xml">
-      <configuration name="unittest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="unittest - 2018.07.14 at 11h 00m 37s.xml">
-      <configuration name="unittest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="unittest - 2018.07.14 at 11h 11m 44s.xml">
-      <configuration name="unittest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="unittest - 2018.07.14 at 11h 12m 58s.xml">
-      <configuration name="unittest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="unittest - 2018.07.14 at 11h 13m 47s.xml">
-      <configuration name="unittest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest - 2018.07.14 at 13h 37m 49s.xml">
+    <history-entry file="pytest - 2018.07.14 at 13h 56m 40s.xml">
       <configuration name="pytest" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest - 2018.07.14 at 13h 41m 06s.xml">
+    <history-entry file="pytest - 2018.07.14 at 13h 57m 11s.xml">
       <configuration name="pytest" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest - 2018.07.14 at 13h 43m 40s.xml">
+    <history-entry file="pytest - 2018.07.14 at 13h 57m 47s.xml">
       <configuration name="pytest" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest - 2018.07.14 at 13h 44m 01s.xml">
+    <history-entry file="pytest - 2018.07.14 at 13h 58m 19s.xml">
+      <configuration name="pytest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest - 2018.07.14 at 14h 08m 25s.xml">
+      <configuration name="pytest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest - 2018.07.14 at 14h 09m 41s.xml">
+      <configuration name="pytest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest - 2018.07.14 at 14h 12m 08s.xml">
+      <configuration name="pytest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest - 2018.07.14 at 14h 12m 18s.xml">
+      <configuration name="pytest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest - 2018.07.14 at 14h 12m 49s.xml">
+      <configuration name="pytest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest - 2018.07.14 at 14h 16m 26s.xml">
       <configuration name="pytest" configurationId="tests" />
     </history-entry>
   </component>
@@ -615,8 +621,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_calculate.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        <state relative-caret-position="313">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+          <folding>
+            <element signature="e#53#66#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
