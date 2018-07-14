@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="111102e7-541d-4db8-ba68-e3783516e262" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/test_calculation.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_calculation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_calculate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,19 +18,28 @@
         <entry file="file://$PROJECT_DIR$/calculation.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="26" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="26" />
+              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_calculation.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_calculation.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_calculation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+            <state relative-caret-position="30">
+              <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_calculate.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_calculate.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -49,7 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lesson_package/talk/__init__.py" />
         <option value="$PROJECT_DIR$/lesson67.py" />
         <option value="$PROJECT_DIR$/lesson70.py" />
         <option value="$PROJECT_DIR$/lesson72.py" />
@@ -100,6 +109,7 @@
         <option value="$PROJECT_DIR$/lesson160.py" />
         <option value="$PROJECT_DIR$/lesson161.py" />
         <option value="$PROJECT_DIR$/test_calculation.py" />
+        <option value="$PROJECT_DIR$/test_calculate.py" />
       </list>
     </option>
   </component>
@@ -150,7 +160,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.unittest">
+  <component name="RunManager" selected="Python tests.pytest">
     <configuration name="lesson8" type="PythonConfigurationType" factoryName="Python">
       <module name="Udemy_Python3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,6 +179,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="pytest" type="tests" factoryName="py.test">
+      <module name="Udemy_Python3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/Udemy_Python3/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_calculate.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
     <configuration name="unittest" type="tests" factoryName="Unittests">
       <module name="Udemy_Python3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,6 +209,7 @@
     </configuration>
     <list>
       <item itemvalue="Python.lesson8" />
+      <item itemvalue="Python tests.pytest" />
       <item itemvalue="Python tests.unittest" />
     </list>
   </component>
@@ -202,18 +227,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="unittest - 2018.07.13 at 22h 17m 15s.xml">
-      <configuration name="unittest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="unittest - 2018.07.13 at 22h 18m 43s.xml">
-      <configuration name="unittest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="unittest - 2018.07.13 at 22h 21m 04s.xml">
-      <configuration name="unittest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="unittest - 2018.07.13 at 22h 22m 18s.xml">
-      <configuration name="unittest" configurationId="tests" />
-    </history-entry>
     <history-entry file="unittest - 2018.07.13 at 22h 22m 24s.xml">
       <configuration name="unittest" configurationId="tests" />
     </history-entry>
@@ -232,6 +245,18 @@
     <history-entry file="unittest - 2018.07.14 at 11h 00m 37s.xml">
       <configuration name="unittest" configurationId="tests" />
     </history-entry>
+    <history-entry file="unittest - 2018.07.14 at 11h 11m 44s.xml">
+      <configuration name="unittest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="unittest - 2018.07.14 at 11h 12m 58s.xml">
+      <configuration name="unittest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="unittest - 2018.07.14 at 11h 13m 47s.xml">
+      <configuration name="unittest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest - 2018.07.14 at 13h 37m 49s.xml">
+      <configuration name="pytest" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -246,15 +271,15 @@
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8452381" visible="true" weight="0.2535316" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8433735" visible="true" weight="0.2535316" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32900432" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32756132" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28138527" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28138527" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32900432" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32756132" />
-      <window_info id="Structure" order="1" sideWeight="0.15476191" side_tool="true" visible="true" weight="0.2535316" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.27272728" />
+      <window_info id="Structure" order="1" sideWeight="0.15662651" side_tool="true" visible="true" weight="0.2535316" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.27272728" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3982684" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -281,13 +306,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lesson88.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test.text">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -582,20 +600,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/calculation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_calculation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        <state relative-caret-position="30">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calculation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_calculate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
         </state>
       </provider>
     </entry>
