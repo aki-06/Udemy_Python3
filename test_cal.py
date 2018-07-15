@@ -9,7 +9,8 @@ class TestCal(object):
         cls.cal = calc.Cal()
         cls.test_file_name = 'test1.txt'
 
-    def test_add_num_and_double(self):
+    def test_add_num_and_double(self, csv_file):
+        print(csv_file)
         assert self.cal.add_num_and_double(1, 1) == 4
 
     def test_save(self, tmpdir):
