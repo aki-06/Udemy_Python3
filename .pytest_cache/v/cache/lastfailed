@@ -1,1 +1,4 @@
-{}
+{
+  "test_calc.py::test_add_num_and_double": true,
+  "test_calc.py::test_add_num_and_double_raise": true
+}
