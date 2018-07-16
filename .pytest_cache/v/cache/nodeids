@@ -1,6 +1,3 @@
 [
-  "test_cal.py::TestCal::()::test_save_no_dir",
-  "test_cal.py::TestCal::()::test_add_num_and_double",
-  "test_cal.py::TestCal::()::test_save",
-  "test_cal.py::TestCal::()::test_add_num_and_double_raise"
+  "test_salary.py::TestSalary::test_calcukation_salary"
 ]
